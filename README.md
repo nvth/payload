@@ -1,4 +1,4 @@
-# payload
+# copypáte
  ## SQLi one for all
     
     SLEEP(10)+/*'+or+SLEEP(10)+or'"+or+SLEEP(10)+or+"*/
@@ -7,7 +7,7 @@
     "><img src=dwqdwq onerror=console.log(1)>
 
     
-# SystemPrivilege
+# SystemPrivilegeCommand
 
 
  **smb find username ,password**
